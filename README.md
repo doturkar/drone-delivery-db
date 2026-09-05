@@ -8,9 +8,11 @@ deleting data).
 
 ## What is this project?
 
-This project models a mini drone delivery company (like a small Amazon
-Prime Air), tracking warehouses, drones, customers, orders, and delivery
-flights in a relational database built with SQLite.
+This project is inspired by real-world fleet operations challenges
+I've encountered while working in autonomous drone testing at
+Zipline — built as a self-directed exercise to strengthen my
+database design skills for the autonomous vehicle and robotics
+industry.
 
 ## Files
 
