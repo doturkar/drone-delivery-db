@@ -1,8 +1,10 @@
 # Drone Delivery Logistics Database
 
 A small relational database that models a drone delivery company —
-warehouses, drones, customers, orders, and deliveries. Built for
-CMPS 565, Week 1: Relational Database Management Systems (DDL & DML).
+warehouses, drones, customers, orders, and deliveries. Built to
+practice core relational database concepts: schema design, DDL
+(building tables), and DML (inserting, querying, updating, and
+deleting data).
 
 ## What is this project?
 
